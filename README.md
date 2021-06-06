@@ -1,0 +1,2 @@
+Este pequeno projeto foi desenvolvido ao seguir as aulas disponibilizadas pela Kenzie Academy na semana do HTML e CSS. No qual no final pude aprender a trabalhar um pouco com os dois.
+É um currículo simples utilizando flexbox e com responsividade.
